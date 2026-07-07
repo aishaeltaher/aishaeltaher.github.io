@@ -70,7 +70,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span>Scikit-Learn</span>
                 <span>Seaborn</span>
             </div>
-            <br><a href="https://github.com/aishaeltaher/ensemble-learning-churn" target="_blank" class="btn btn-primary" style="margin-top: 1.5rem; display: inline-block;">View Code on GitHub</a>
         `,
         'rag': `
             <span class="project-tag">Generative AI</span>
@@ -93,7 +92,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span>DeepEval</span>
                 <span>Google Gemini API</span>
             </div>
-            <br><a href="https://github.com/aishaeltaher/rag-evaluator-framework" target="_blank" class="btn btn-primary" style="margin-top: 1.5rem; display: inline-block;">View Code on GitHub</a>
         `,
         'parking': `
             <span class="project-tag">Data Visualization</span>
@@ -116,7 +114,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span>Pandas</span>
                 <span>Levenshtein</span>
             </div>
-            <br><a href="https://github.com/aishaeltaher/toronto-parking-analysis" target="_blank" class="btn btn-primary" style="margin-top: 1.5rem; display: inline-block;">View Code on GitHub</a>
         `,
         'db_etl': `
             <span class="project-tag">Data Engineering</span>
@@ -141,7 +138,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span>SQLAlchemy</span>
                 <span>Pandas</span>
             </div>
-            <br><a href="https://github.com/aishaeltaher/weather-data-etl" target="_blank" class="btn btn-primary" style="margin-top: 1.5rem; display: inline-block;">View Code on GitHub</a>
         `,
         'mci': `
             <span class="project-tag">Predictive Analytics</span>
@@ -166,7 +162,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span>LLMs / Prompt Engineering</span>
                 <span>Explainable AI (XAI)</span>
             </div>
-            <br><a href="https://github.com/aishaeltaher/toronto-mci-modelling" target="_blank" class="btn btn-primary" style="margin-top: 1.5rem; display: inline-block;">View Code on GitHub</a>
         `,
         'digital': `
             <span class="project-tag">Business Strategy</span>
@@ -191,11 +186,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span>Supply Chain Analytics</span>
                 <span>Change Management</span>
             </div>
-            <br><a href="https://github.com/aishaeltaher/digital-transformation-strategy" target="_blank" class="btn btn-primary" style="margin-top: 1.5rem; display: inline-block;">View Code on GitHub</a>
         `,
         'credpath': `
             <span class="project-tag">Generative AI</span>
-            <h3>credPath AI: The Agentic Loan Advisor</h3>
+            <h3>CredPath AI: The Agentic Loan Advisor</h3>
             <p style="color: var(--text-secondary); margin-bottom: 2rem;">Multi-Agent Orchestration & Risk Modeling</p>
             
             <h4>Strategic Objective</h4>
@@ -216,7 +210,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span>XGBoost</span>
                 <span>SHAP</span>
             </div>
-            <br><a href="https://github.com/aishaeltaher/credpath-ai" target="_blank" class="btn btn-primary" style="margin-top: 1.5rem; display: inline-block;">View Code on GitHub</a>
         `,
         'customer360': `
             <span class="project-tag">Data Engineering</span>
@@ -241,7 +234,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span>Data Warehousing</span>
                 <span>ETL</span>
             </div>
-            <br><a href="https://github.com/aishaeltaher/customer-360-data-modeling" target="_blank" class="btn btn-primary" style="margin-top: 1.5rem; display: inline-block;">View Code on GitHub</a>
         `
     };
 
